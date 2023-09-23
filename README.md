@@ -1,4 +1,4 @@
-# Autonomous-Serving-system
+# Autonomous Restaurant Serving System using Image Detection and Voiceprint Detection in Android Application
 Designed a personalized database featuring integrated voice recognition and image detection to elevate food chain service.  
 
 Accomplished the development of a tailored database with voice recognition, enriching food chain services and incorporating advanced image detection for intelligent food categorization, resulting in a substantial enhancement of operational speed, thereby significantly improving overall efficiency and published a paper for the same at the 2020 International Conference on Communication and 
